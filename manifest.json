@@ -1,0 +1,16 @@
+{
+  "name": "Offline PWA Beispiel",
+  "short_name": "Offline PWA",
+  "description": "Eine einfache Progressive Web App zum Testen offline.",
+  "icons": [
+    {
+      "src": "logo.ico",
+      "sizes": "192x192",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "display": "standalone"
+}
